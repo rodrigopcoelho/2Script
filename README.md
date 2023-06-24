@@ -1,5 +1,5 @@
 # 2Script
-<img src="https://rodrigo-coelho23.imgbb.com" >
+<img src="https://i.ibb.co/JcJkL6r/capa.png" alt="capa" border="0">
 React Class Project 
 
 This repository contains a project called "2script" developed as part of the Advanced Client-Side Technologies class. 
