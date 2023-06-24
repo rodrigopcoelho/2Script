@@ -1,0 +1,744 @@
+
+
+.logologin{
+    position: absolute;
+    width: 629px;
+    height: 82px;
+    left: 662px;
+    top: 150px;
+
+    font-family: 'Retro Gaming';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 89px;
+
+    color: white;
+}
+
+.twored{
+    color: #F25456;
+}
+
+.square1{
+    position: absolute;
+    width: 288px;
+    height: 288px;
+    left: 34px;
+    top: 29px;
+    
+    background: #C1A7E2;
+    z-index: -1;
+}
+
+.square2{
+    position: absolute;
+    width: 288px;
+    height: 288px;
+    left: 300px;
+    top: 678px;
+
+    background: #65A0E0;
+    z-index: -1;
+}
+.square3{
+    position: absolute;
+    width: 288px;
+    height: 288px;
+    left: 1068px;
+    top: 29px;
+
+    background: #EAB5D9;
+}
+.square4{
+    position: absolute;
+    width: 288px;
+    height: 288px;
+    left: 941px;
+    top: 846px;
+
+    background: #FEFFFF;
+}
+
+/* NAVBAR */
+
+.navbar{
+    color: white;
+    background-color: #F25456;
+    z-index: 2;
+
+}
+
+.navbar:hover{
+    color: #F25456;
+    background-color: white;
+    z-index: 2;
+}
+
+.mainsquare{
+    position: fixed;
+    width: 293px;
+    height: 60px;
+    left: 573px;
+    top: 0px;
+
+
+    font-family: 'Retro Gaming';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 61px;
+
+    text-align: center;
+    background: inherit;
+    
+    z-index: inherit;
+
+}
+.minisquare1{
+    position: fixed;
+    width: 43px;
+    height: 60px;
+    left: 509px;
+    top: 0px;
+    background: inherit;
+    z-index: inherit;
+
+}
+
+.minisquare2{
+    position: fixed;
+    width: 43px;
+    height: 60px;
+    left: 887px;
+    top: 0px;
+    background: inherit;
+    z-index: inherit;
+
+    
+}
+
+/* HOMEPAGE */
+
+.title1{
+    position: absolute;
+    width: 681px;
+    height: 115px;
+    left: 21px;
+    top: 120px;
+    
+    font-family: 'Retro Gaming';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 81px;
+    
+    color: #FFFFFF;
+    z-index: 1;
+
+}
+
+.title2{
+    position: absolute;
+    width: 662px;
+    height: 115px;
+    left: 103px;
+    top: 209px;
+    
+    font-family: 'Retro Gaming';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 102px;
+    
+    color: #FFFFFF;
+    z-index: 1;
+    }
+
+
+    
+
+
+
+.bnext{
+
+    position: absolute;
+    width: 125.38px;
+    height: 125.38px;
+    left: 1073px;
+    top: 665px;
+    border-radius: 50%;
+
+    background: #61C2C4;
+    mix-blend-mode: normal;
+    border: none;
+
+    color: white;
+    font-size: 50px;
+}
+
+.bnext:hover{
+
+    background: rgba(254, 255, 255, 0.8);
+    color: #61C2C4;
+
+
+}
+
+
+
+
+.pai{
+    position: absolute;
+    margin-left: 30px;
+    
+}
+
+
+
+
+.textcircle{
+    position: absolute;
+   
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    margin-top: 121px;
+    
+    color: #FFFFFF;
+
+}
+
+
+
+.subtext{
+
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.lock{
+    color:#C3C3C3;
+}
+.unlock{
+    color: #F7BB5D;
+}
+
+.tracejadofeito{
+    border-color:  #F7BB5D!important;
+}
+
+.tracejadoporfazer{
+    border-color:#E71D36!important;
+}
+
+.tracejadolock{
+    border-color:#C3C3C3!important;
+}
+
+.tracejado1{
+
+position: absolute;
+width: 331.08px;
+height: 0px;
+left: 419px;
+top: 279px;
+
+border: 6px dashed #E71D36;
+transform: rotate(-166.55deg);
+
+}
+.tracejado2{
+    
+    position: absolute;
+    width: 71px;
+    height: 0px;
+    left: 174px;
+    top: 429px;
+    
+    border: 6px dashed ;
+    transform: rotate(-90deg);
+}
+
+
+.tracejado3{
+
+    position: absolute;
+    width: 759.98px;
+    height: 0px;
+    left: 349px;
+    top: 440px;
+    
+    border: 6px dashed #C3C3C3;
+    transform: rotate(-30.18deg);}
+
+.tracejado4{
+
+    position: absolute;
+    width: 71px;
+    height: 0px;
+    left: 1213px;
+    top: 429px;
+    
+    border: 6px dashed #C3C3C3;
+    transform: rotate(-90deg);}
+
+.profilephoto{
+    position: absolute;
+    width: 373.39px;
+    height: 316.86px;
+    left: 942.61px;
+    top: 182px;
+
+    clip-path: polygon(39px 40px, 372px 47px, 342px 300px, 7px 295px);
+
+    background: #D9D9D9;
+
+    transform: rotate(5deg)
+    
+
+
+}
+
+.geralinfo{
+    position: absolute;
+
+    font-size: 30px;
+    color:white;
+
+    left: 409px;
+    top: 188px;
+   
+
+}
+
+.para1:hover{
+color:#E71D36;
+
+}
+.para2:hover{
+    color:#E71D36;
+    
+    }
+    .para3:hover{
+        color:#E71D36;
+        
+        }
+        .para4:hover{
+            color:#E71D36;
+            
+            }
+
+.circulog{
+    display: inline-block;
+    position: relative;
+    width: 402px;
+    height: 402px;
+    top: 218px;
+    border-radius: 100%;
+
+    background: rgba(254, 255, 255, 0.5);
+    margin: 0 31px;
+
+    
+}
+
+
+
+
+.circulop{
+
+    position: absolute;
+    width: 352px;
+    height: 352px;
+    border-radius: 100%;
+    margin-top: 24px;
+    margin-left: 24px;
+    text-align: center;
+
+    background: #F7BB5D;
+
+ 
+}
+
+.leftb{
+
+    position: absolute;
+    width: 670px;
+    height: 670px;
+    left: -192px;
+    top: 129px;
+ }
+
+ .rightr{
+    position: absolute;
+    width: 661px;
+    height: 660px;
+    left: 918px;
+    top: 137px;
+ }
+
+ .ecrapri{
+    position: absolute;
+    width: 876px;
+    height: 630px;
+    left: 273px;
+    top: 159px;
+
+    background-color: #1E1E1E;
+    z-index: 2;
+
+    border: solid;
+ }
+
+ .texttowrite{
+    font-size: 40px;
+    margin-left: 20px;
+    font-family: "vscodef";
+    color:white;
+ }
+
+ .inputt{
+    width: 10%;
+    font-family: "vscodef";
+   background-color: transparent;
+    color:white;
+    border: none;
+    font-size: 40px;
+ }
+ .var{
+    font-size: inherit;
+    color: #669BD1;
+    font-family: inherit;
+ }
+ .num{
+    font-size: inherit;
+    color: #A9DBFA;
+    font-family: inherit;
+
+ }
+ .oito{
+    font-size: inherit;
+    color: #B7C8A8;
+    font-family: inherit;
+
+ }
+ .console{
+    font-size: inherit;
+    font-family: inherit;
+    color: #669BD1;
+
+ }
+ .aquelacoisa{
+    font-size: inherit;
+   color:#632860;
+    font-family: inherit;
+
+ }
+ .log{font-size: inherit;
+    color: #FFD028;
+    font-family: inherit;}
+
+.perguntatxt{
+    font-size: 30px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.divpetext{
+
+    position: absolute;
+width: 933px;
+height: 99px;
+left: 229px;
+top: 38px;
+
+background: rgba(0, 0, 0, 0.25);
+border-radius: 35px;
+}
+
+.butaofeito{
+
+    position: absolute;
+    width: 239px;
+    height: 70px;
+    margin-left: 20px;
+    margin-top: 180px;
+    
+
+    border: 8px solid #F7BB5D;
+    border-radius: 12px;
+    background-color: transparent;
+    color: #F7BB5D;
+
+    font-size: 30px;
+}
+
+/* jogo */
+
+.game-area{
+    position: absolute;
+    width: 876px;
+    height: 630px;
+    left: 273px;
+    top: 159px;
+    
+    background: linear-gradient(0deg, #1E1E1E, #1E1E1E), #081222;
+
+}
+
+.cobra{
+    position: absolute;
+    width: 2%;
+    height: 2%;
+
+    border: 2px solid #081222 ;
+    background-color: #24FF00;
+
+
+}
+.food{
+
+    position: absolute;
+    width: 2%;
+    height: 2%;
+
+    border: 2px solid #081222 ;
+    background-color: #E71D36;
+
+}
+
+.score{
+    position: absolute;
+    width: 300px;
+    height: 72px;
+    left: 1005px;
+    top: 57px;
+
+    font-family: 'Retro Gaming';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 64px;
+    text-align: right;
+
+    color: #FFFFFF;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+}
+
+.virus{
+    position: fixed;
+
+    
+    width: 258px;
+    height: 80px;
+    left: 591px;
+    margin-top:710px;
+
+    background: #F25456;
+    color: white;
+    border: none;
+    font-size: 40px;
+    
+}
+
+.virus:hover{
+
+    background: white;
+    color: #01AF78;
+
+}
+
+.divmateria{
+
+    position: absolute;
+
+    width: 481px;
+    height: 537px;
+    left: 0px;
+    top: 172px;
+
+    font-size: 20px;
+    color: white;
+
+    overflow-y: scroll;
+   
+
+}
+
+.divescondida{
+    position: absolute;
+    width: 840px;
+    height: 498px;
+    left: 544px;
+    top: 191px;
+    color: white;
+
+    font-size: 20px;
+}
+
+.locklevel{
+    background-color: #C9C9C9;
+    color: #E6E6E6;
+}
+
+.imagemmateria{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+   
+   
+}
+
+.grey {
+    background: #C3C3C3;
+  }
+
+  /* circulos conta */
+  .circles-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .circle {
+    width: 210px;
+    height: 210px;
+    border: 2px solid #C9C9C9;
+    opacity: 0.5;
+    border-radius: 50%;
+    background-color: transparent;
+    margin: 20px 0;
+    position: relative;
+    color: #C9C9C9;
+  }
+  
+  .circle-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    opacity: 0.5;
+    font-size: 18px;
+  }
+
+  .white {
+    color:white!important;
+    border: 2px solid white!important;
+    opacity: 1!important;
+
+  }
+
+  .hightitle{
+    position: absolute;
+    left: 819px;
+    top: 137px;
+
+    font-family: 'Retro Gaming';
+    
+ 
+    font-size: 50px;
+    text-align: center;
+ 
+
+    color: #FFFFFF;
+
+  }
+
+  .boardSquare{
+
+    position: absolute;
+    width: 600px;
+    height: 436px;
+    left: 733px;
+    top: 250px;
+
+    overflow-y:scroll ;
+
+    background: rgba(0, 0, 0, 0.25);
+    
+
+  }
+
+  .boardTitle{
+    position: absolute;
+    width: 601px;
+    height: 68px;
+
+    background: rgba(0, 0, 0, 0.25);
+
+
+  }
+
+  .tituloboard{
+    color: white;
+    font-size: 36px;
+    display: inline-block;
+
+  }
+
+  .t1{
+    margin-right: 100px;
+  }
+  .t2{
+    margin-right: 100px;
+  }
+
+/*   board */
+
+.playdiv{
+    width: 601px;
+    height: 118px;  
+    margin-top: 35px;
+}
+
+
+.boardphoto{
+    width: 97px;
+    height: 97px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 42px;
+}
+
+.playerpo{
+    display: inline-block;
+}
+.playersco{
+    display: inline-block;
+}
+
+.t11{
+    margin-right: 215px;
+  }
+  .t22{
+    margin-right: 178px;
+  }
+
+/* blockly */
+.blockly{
+    position: absolute;
+    left: 267px;
+    top: 158px;
+    
+}
+
+.gene{
+
+    position: absolute;
+    width: 280px;
+    height: 630px;
+    left: 873px;
+    top: 158px;
+    
+    background: white;
+}
+

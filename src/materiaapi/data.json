@@ -1,0 +1,160 @@
+{
+  "materia": [
+    {
+      "id": 1,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1, como por exemplo: numero ++."
+      
+      
+    },
+
+    {
+      "id": 2,
+      "titulo": "+= operador",
+      "texto": "Em vez de reescrever o nome da variável, podemos usar o operador += para adicionar um número."
+    },
+    {
+      "id": 3,
+      "titulo": "-- operador",
+      "texto": "Podemos subtrair 1 do valor de uma variável usando o operador de decremento (-)."
+    },
+    {
+      "id": 4,
+      "titulo": "-= operador",
+      "texto": "Para subtrair o valor de uma variável, usamos o operador -=, como por exemplo: numero += 1."
+    },
+    {
+      "id": 5,
+      "titulo": "Booleano",
+      "texto": "O tipo boolean contém apenas dois valores: (os valores especiais) true e false."
+    },
+    {
+      "id": 6,
+      "titulo": "Chavetas",
+      "texto": " As chavetas{ e }, marcam o bloco de código que pertence à função."
+    },
+    {
+      "id": 7,
+      "titulo": "Chamar a função",
+      "texto": "Para executar o código, precisamos chamar a função. Fazemos isso codificando o nome da função de seguida os parênteses, como funcaox();"
+    },
+    {
+      "id": 8,
+      "titulo": "Parênteses curvos",
+      "texto": "O código que queremos agrupar vai entre parênteses curvos."
+    },
+    {
+      "id": 9,
+      "titulo": "Bloco de código",
+      "texto": "Por exemplo um if não decide saltar ou executar todo o código. As decisões são tomadas sobre um pedaço de código. Este pedaço de código é chamado de bloco de código. E escrevemos entre chaves {}."
+    },
+    {
+      "id": 10,
+      "titulo": "Condições",
+      "texto": "Valores como true são chamados de condições. Declarações que dependem de condições são chamadas de condicionais. As condições decidem se o código é executado ou ignorado. Estas vêm entre parênteses."
+    },
+    {
+      "id": 11,
+      "titulo": "Console",
+      "texto": "Com a instrução especial console.log(), dizemos ao computador para exibir um valor numa área, no browser, chamada console."
+    },
+    {
+      "id": 12,
+      "titulo": "If statement",
+      "texto": "A instrução if executa o código somente se o booleano em que ela se guia for verdadeiro. É como dizer, se algo é verdade, então faz isto."
+    },
+    {
+      "id": 13,
+      "titulo": "Else",
+      "texto": "Em vez de criar duas instruções if, usamos if/else para obter o mesmo resultado.",
+      "imagem": "imagemifelse.png",
+      "texto2":"A instrução else de um if/else vai no fim."
+    
+    },
+    {
+      "id": 14,
+      "titulo": "Operador de igualdade",
+      "texto": "Para comparar se dois números ou strings são iguais, usamos o operador de igualdade, ===."
+    },
+    {
+      "id": 15,
+      "titulo": "Função",
+      "texto": "Para começar a agrupar o código relacionado, começamos uma função."
+    },
+    {
+      "id": 16,
+      "titulo": "Maior que",
+      "texto": "Para verificar se um número é maior que outro, usamos o operador maior que, >."
+    },
+    {
+      "id": 17,
+      "titulo": "Menor que",
+      "texto": "Para verificar se um número é menor que outro, usamos o operador maior que, >."
+    },
+    {
+      "id": 18,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 19,
+      "titulo": "Strings",
+      "texto": "Strings são caracteres entre aspas, como por exemplo: 'olá' ."
+    },
+    {
+      "id": 20,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 21,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 22,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 23,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 24,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 25,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 26,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 27,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 28,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 29,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    },
+    {
+      "id": 30,
+      "titulo": "++ operador",
+      "texto": "O operador de incremento, ++, é colocado após o nome da variável, aumenta seu valor em 1"
+    }
+  ]
+}

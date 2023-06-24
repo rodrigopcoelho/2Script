@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "gamer";
+  src: url(./font/retrogaming.ttf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "vscodef";
+  src: url(./font/vscodefont.otf);
+  font-weight: normal;
+}
+
+
+body {
+  margin: 0;
+  
+  background-color: #01AF78;
+
+  overflow-x: hidden;
+
+}
+
+*{font-family: 'gamer';}
