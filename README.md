@@ -1,5 +1,5 @@
 # 2Script
-<img src="https://ibb.co/GdSPwYC">
+<img src="https://ibb.co/GdSPwYC" >
 React Class Project 
 
 This repository contains a project called "2script" developed as part of the Advanced Client-Side Technologies class. 
