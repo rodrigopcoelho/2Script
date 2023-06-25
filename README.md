@@ -1,6 +1,5 @@
 # 2Script
-<img src="https://i.ibb.co/JcJkL6r/capa.png" alt="capa" border="0">
-
+<img src="https://i.ibb.co/7pwMpQX/capa.png" alt="capa" border="0">
 
 React Class Project 
 
